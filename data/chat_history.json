@@ -1,0 +1,24 @@
+{
+  "TEST_SESSION_123": [
+    {
+      "role": "user",
+      "content": "How do I represent a 3D point in the TKMath library?"
+    },
+    {
+      "role": "assistant",
+      "content": "==================================================\n        CODE QUERY ASSISTANT - ERROR              \n==================================================\nError: Failed to retrieve answer from GraphRAG backend. Details: \n=================================================="
+    },
+    {
+      "role": "user",
+      "content": "{\"query\": \"What class describes a shape with orientation in src/TopoDS/?\"}"
+    },
+    {
+      "role": "assistant",
+      "content": "{\"query\": \"What class describes a shape with orientation in src/TopoDS/?\", \"status\": \"error\", \"answer\": \"Error: Failed to retrieve answer from GraphRAG backend. Details: \", \"sources\": []}"
+    },
+    {
+      "role": "user",
+      "content": "Explain standard transient classes and geometry curves in the codebase."
+    }
+  ]
+}
