@@ -20,5 +20,33 @@
       "role": "user",
       "content": "Explain standard transient classes and geometry curves in the codebase."
     }
+  ],
+  "42f99e0f-a77e-4be1-b3da-d8c66026b2e1": [
+    {
+      "role": "user",
+      "content": "hlo"
+    },
+    {
+      "role": "assistant",
+      "content": "==================================================\n        CODE QUERY ASSISTANT - ERROR              \n==================================================\nError: Failed to retrieve answer from GraphRAG backend. Details: \n=================================================="
+    },
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "==================================================\n        CODE QUERY ASSISTANT - ERROR              \n==================================================\nError: Failed to retrieve answer from GraphRAG backend. Details: \n=================================================="
+    }
+  ],
+  "f540c034-cdae-4d3e-8f7f-89a6193b783a": [
+    {
+      "role": "user",
+      "content": "hmm"
+    },
+    {
+      "role": "assistant",
+      "content": "==================================================\n        CODE QUERY ASSISTANT - ERROR              \n==================================================\nError: Failed to retrieve answer from GraphRAG backend. Details: \n=================================================="
+    }
   ]
 }
